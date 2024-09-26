@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # Environment for miniImageNet & tieredImageNet
-conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.7 -c pytorch -c nvidia
 conda install h5py ordered-set tqdm
 
 # Commands in the following setup the environment for experiments on CUB dataset, which requires the original unmodified
