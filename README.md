@@ -39,7 +39,7 @@ To reproduce the results reported in our paper, please use the scripts provided 
 ```tex
 @inproceedings{MetaNCoV, 
   author={Zhang, Yilang and Sadeghi, Alireza and Giannakis, Georgios B.}, 
-  title={Meta-Learning Priors Using Unrolled Proximal Networks}, 
+  title={Meta-Learning Universal Priors Using Non-Injective Change of Variables}, 
   booktitle={Advances in Neural Information Processing Systems}, 
   year={2024}, 
   url={https://openreview.net/forum?id=E8b4yOLGZ5},
