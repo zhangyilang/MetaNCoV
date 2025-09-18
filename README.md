@@ -1,5 +1,5 @@
 #  [NeurIPS 2024] MetaNCoV
-Implementation of NeurIPS 2024 paper “[Meta-Learning Universal Priors Using Non-Injective Change of Variables](https://openreview.net/forum?id=E8b4yOLGZ5)” (to appear soon). 
+Implementation of NeurIPS 2024 paper “[Meta-Learning Universal Priors Using Non-Injective Change of Variables](https://openreview.net/forum?id=E8b4yOLGZ5)”. 
 
 ## Preparation
 
